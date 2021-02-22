@@ -1,0 +1,77 @@
+{
+    "portfolio": [{
+        "name": "Analista funcional - Desarrollador",
+        "desc": "Leadit/Neotel",
+        "tech": "SQL, Monday, Java, Neotel, js",
+        "client": "Neotel",
+        "design": "Hernan Perrone",
+        "code": "Neotel",
+        "link": "http://www.Neotel.com"
+    }, {
+        "name": "Ejecutivo de cuentas",
+        "desc": "Mayday/Leadit",
+        "tech": "AngularJS, Android, Java, Monday, js, SQL, RESTful API",
+        "client": "Leadit",
+        "design": "Hernan Perrone",
+        "code": "Leadit",
+        "link": "http://www.leadit.com"
+    }, {
+        "name": "Customer Experience",
+        "desc": "Mayday",
+        "tech": "Community Manager, Facebook, Responsive Design, SQL",
+        "client": "Mayday",
+        "design": "Hernan Perrone",
+        "code": "Mayday",
+        "link": "http://www.mayday.com"
+    }],
+    "skillset": [{
+        "icon": "html",
+        "name": "HTML5"
+    }, {
+        "icon": "css",
+        "name": "CSS3"
+    }, {
+        "icon": "js",
+        "name": "JavaScript (ES6)"
+    }, {
+        "icon": "jquery",
+        "name": "JQuery"
+    }, {
+        "icon": "angular",
+        "name": "Angular 1 & 2"
+    }, {
+        "icon": "typescript",
+        "name": "Typescript"
+    }, {
+        "icon": "bootstrap",
+        "name": "Bootstrap"
+    }, {
+        "icon": "git",
+        "name": "Git, GitHub, Source Tree, & Bitbucket"
+    }, {
+        "icon": "SQL",
+        "name": "MySQL"
+    }, {
+        "icon": "Java",
+        "name": "Java"
+    }, {
+        "icon": "Android",
+        "name": "Android Studio"
+    }, {
+        "icon": "gsap",
+        "name": "GSAP"
+    }, {
+        "icon": "sublime",
+        "name": "Sublime & Package Control"
+    }],
+    "experience": [{
+        "name": "Leadit/Neotel",
+        "logo": "Neotel"
+    }, {
+        "name": "Mayday/Leadit",
+        "logo": "Leadit"
+    }, {
+        "name": "Mayday",
+        "logo": "Mayday"
+    }]
+}

@@ -1,0 +1,41 @@
+<div id="portfolio-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="Portfolio Projects">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content color-cleared">
+            <div class="modal-subcontainer">
+                <div class="text-center modal-head">
+                    <button type="button" class="close btn-close" data-dismiss="modal" aria-label="Close">
+                        <img src="./assets/img/close.svg">
+                    </button>
+                    <h1 id="portfolio-project-title"></h1>
+                    <p id="portfolio-project-subtitle"></p>
+                    <hr>
+                    <div id="portfolio-image-wrapper">
+                        <!-- video.js -->
+                        <video id="portfolio-video" class="video-js vjs-default-skin" preload="none" controls width="800px" height="600px" data-setup='{ "aspectRatio":"800:600"}'>
+                            <p class="vjs-no-js">
+                                To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+                            </p>
+                        </video>
+                        <!-- arrows -->
+                        <div id="arrow-left"><img src="./assets/img/arrow-left.png"></div>
+                        <div id="arrow-right"><img src="./assets/img/arrow-right.png"></div>
+                    </div>
+                    <hr>
+                    <button id="btn-video-desktop" class="btn btn-device" data-toggle="tooltip" data-placement="top" title="video">
+                        <img src="./assets/img/desktop.svg">
+                    </button>
+                    <button id="btn-video-ipad" class="btn btn-device" data-toggle="tooltip" data-placement="top" title="video">
+                        <img src="./assets/img/ipad.svg">
+                    </button>
+                    <button id="btn-video-mobile" class="btn btn-device" data-toggle="tooltip" data-placement="top" title="video">
+                        <img src="./assets/img/mobile.svg">
+                    </button>
+                    <button id="btn-web-link" class="btn btn-device" data-toggle="tooltip" data-placement="top" title="link">
+                        <img src="./assets/img/link-website.svg">
+                    </button>
+                    <p id="portfolio-project-description"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
